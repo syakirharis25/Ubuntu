@@ -34,6 +34,7 @@ Where is .bashrc? by Ask Ubuntu : https://askubuntu.com/questions/127056/where-i
 **_Ubuntu related articles_** <br />
 Chmod Command in Linux (File Permissions) by Linuxize : https://linuxize.com/post/chmod-command-in-linux/ <br />
 Using apt-get Commands In Linux [Complete Beginners Guide] by It's FOSS : https://itsfoss.com/apt-get-linux-guide/ <br />
+12 Useful “df” Commands to Check Disk Space in Linux by TecMint : https://www.tecmint.com/how-to-check-disk-space-in-linux/ <br />
 
 <a name="shortcuts"></a>
 ## 3. Ubuntu shortcuts.
