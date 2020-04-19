@@ -4,6 +4,7 @@ My works related to Ubuntu, a free and open-source Linux distribution based on D
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
+3. [Ubuntu shortcuts.](#shortcuts)
 4. [GitHub notes.](#github)
 5. [GitHub repository calculation.](#calculation)
 
@@ -19,6 +20,12 @@ Ubuntu is developed by Canonical, and a community of other developers, under a m
 <a name="references"></a>
 ## 2. Official references websites. <br />
 Ubuntu official website : https://ubuntu.com <br />
+
+<a name="shortcuts"></a>
+## 3. Ubuntu shortcuts.
+
+**_Ubuntu terminal management_** <br />
+**[ Ctrl ]** + **[ Alt ]** + **[ T ]** : open terminal <br />
 
 <a name="github"></a>
 ## 4. GitHub notes.
