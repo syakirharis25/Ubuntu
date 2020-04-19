@@ -31,7 +31,7 @@ Ubuntu official website : https://ubuntu.com <br />
 <a name="commands"></a>
 ## 4. Ubuntu commands.
 
-**_Ubuntu commands by manpages.ubuntu.com <br />
+**_Ubuntu commands by manpages.ubuntu.com_** <br />
 pwd : http://manpages.ubuntu.com/manpages/trusty/man1/pwd.1posix.html <br />
 
 <a name="github"></a>
