@@ -25,6 +25,12 @@ Ubuntu official website : https://ubuntu.com <br />
 **_Ubuntu documentation by Ubuntu_** <br />
 Nano : https://help.ubuntu.com/community/Nano <br />
 
+**_Ubuntu questions and answers website_** <br />
+Ask Ubuntu : https://askubuntu.com <br />
+
+**_Ubuntu questions and answers website by Ask Ubuntu_** <br />
+Where is .bashrc? by Ask Ubuntu : https://askubuntu.com/questions/127056/where-is-bashrc <br />
+
 <a name="shortcuts"></a>
 ## 3. Ubuntu shortcuts.
 
