@@ -51,6 +51,7 @@ mkdir : http://manpages.ubuntu.com/manpages/xenial/man1/mkdir.1.html <br />
 sudo : http://manpages.ubuntu.com/manpages/trusty/man8/sudo_root.8.html <br />
 tar : http://manpages.ubuntu.com/manpages/bionic/man1/tar.1.html <br />
 mv : http://manpages.ubuntu.com/manpages/xenial/man1/mv.1.html <br />
+sh : https://manpages.ubuntu.com/manpages/trusty/en/man1/sh.1posix.html <br />
 
 <a name="github"></a>
 ## 5. GitHub notes.
