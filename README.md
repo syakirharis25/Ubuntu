@@ -33,6 +33,7 @@ Ubuntu official website : https://ubuntu.com <br />
 
 **_Ubuntu commands by manpages.ubuntu.com_** <br />
 pwd : http://manpages.ubuntu.com/manpages/trusty/man1/pwd.1posix.html <br />
+ls : http://manpages.ubuntu.com/manpages/bionic/man1/ls.1.html <br />
 
 <a name="github"></a>
 ## 5. GitHub notes.
