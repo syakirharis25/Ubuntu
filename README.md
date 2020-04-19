@@ -31,6 +31,9 @@ Ask Ubuntu : https://askubuntu.com <br />
 **_Ubuntu questions and answers website by Ask Ubuntu_** <br />
 Where is .bashrc? by Ask Ubuntu : https://askubuntu.com/questions/127056/where-is-bashrc <br />
 
+**_Ubuntu related articles_** <br />
+Chmod Command in Linux (File Permissions) by Linuxize : https://linuxize.com/post/chmod-command-in-linux/ <br />
+
 <a name="shortcuts"></a>
 ## 3. Ubuntu shortcuts.
 
