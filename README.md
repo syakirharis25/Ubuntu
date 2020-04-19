@@ -5,8 +5,9 @@ My works related to Ubuntu, a free and open-source Linux distribution based on D
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
 3. [Ubuntu shortcuts.](#shortcuts)
-4. [GitHub notes.](#github)
-5. [GitHub repository calculation.](#calculation)
+4. [Ubuntu commands.](#commands)
+5. [GitHub notes.](#github)
+6. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -27,8 +28,14 @@ Ubuntu official website : https://ubuntu.com <br />
 **_Ubuntu terminal management_** <br />
 **[ Ctrl ]** + **[ Alt ]** + **[ T ]** : open terminal <br />
 
+<a name="commands"></a>
+## 4. Ubuntu commands.
+
+**_Ubuntu commands by manpages.ubuntu.com <br />
+pwd : http://manpages.ubuntu.com/manpages/trusty/man1/pwd.1posix.html <br />
+
 <a name="github"></a>
-## 4. GitHub notes.
+## 5. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/Ubuntu.git
@@ -38,7 +45,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 5. GitHub repository calculation.
+## 6. GitHub repository calculation.
 ```
 draft
 ```
