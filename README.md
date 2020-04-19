@@ -22,6 +22,9 @@ Ubuntu is developed by Canonical, and a community of other developers, under a m
 ## 2. Official references websites. <br />
 Ubuntu official website : https://ubuntu.com <br />
 
+**_Ubuntu documentation by Ubuntu_** <br />
+Nano : https://help.ubuntu.com/community/Nano <br />
+
 <a name="shortcuts"></a>
 ## 3. Ubuntu shortcuts.
 
