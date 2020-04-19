@@ -37,6 +37,7 @@ ls : http://manpages.ubuntu.com/manpages/bionic/man1/ls.1.html <br />
 cd : http://manpages.ubuntu.com/manpages/trusty/man1/cd.1posix.html <br />
 mkdir : http://manpages.ubuntu.com/manpages/xenial/man1/mkdir.1.html <br />
 sudo : http://manpages.ubuntu.com/manpages/trusty/man8/sudo_root.8.html <br />
+tar : http://manpages.ubuntu.com/manpages/bionic/man1/tar.1.html <br />
 
 <a name="github"></a>
 ## 5. GitHub notes.
