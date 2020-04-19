@@ -9,7 +9,7 @@ My works related to Ubuntu, a free and open-source Linux distribution based on D
 
 <a name="introduction"></a>
 ## 1. Introduction.
-<img src="ubuntu.png" height="150">
+<img src="ubuntu.png" height="110">
 Ubuntu is a free and open-source Linux distribution based on Debian. Ubuntu is officially released in three editions: Desktop, Server, and Core for the internet of things devices and robots. All the editions can run on the computer alone, or in a virtual machine. Ubuntu is a popular operating system for cloud computing, with support for OpenStack.
 <br /><br />
 Ubuntu is released every six months, with long-term support (LTS) releases every two years. The latest release is 19.10 ("Eoan Ermine"), and the most recent long-term support release is 18.04 LTS ("Bionic Beaver"), which is supported until 2023 under public support and until 2028 as a paid option.
